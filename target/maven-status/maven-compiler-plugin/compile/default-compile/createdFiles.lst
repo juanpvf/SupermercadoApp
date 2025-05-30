@@ -1,0 +1,6 @@
+com\iudigital\supermercadoapp\SystemInfo.class
+com\iudigital\supermercadoapp\model\Cliente.class
+com\iudigital\supermercadoapp\service\Cajera.class
+module-info.class
+com\iudigital\supermercadoapp\app\SupermercadoApp.class
+com\iudigital\supermercadoapp\model\Producto.class
